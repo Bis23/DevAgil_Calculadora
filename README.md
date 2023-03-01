@@ -11,5 +11,5 @@ Carlo Guerreiro - RA: 22.01163-3
   ![Kanban_Inicio](https://user-images.githubusercontent.com/104869999/222133808-18adb20b-36e3-4a2e-be63-0862db1f3472.png)
 
   
-  ### Final do kanban:
-  
+  ### Final do kanban:  
+  ![kanban_final](https://user-images.githubusercontent.com/104869999/222136753-18234122-fd89-47bb-b7e6-2f7297af7c6c.png)
