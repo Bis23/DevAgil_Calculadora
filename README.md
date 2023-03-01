@@ -1,4 +1,4 @@
-# DevAgil_Calculadora
+# Dev. Ágil - Calculadora
 
 Nomes dos integrantes:  
   
